@@ -1,6 +1,6 @@
 import { typeGuards } from "..";
 import { assert } from "chai";
-import TEST_LEGACY_EXPERIMENT  from "../data/experiment-recipe-samples/desktop-90.json";
+import TEST_LEGACY_EXPERIMENT from "../data/experiment-recipe-samples/desktop-90.json";
 import TEST_EXPERIMENT from "../data/experiment-recipe-samples/desktop-98.json";
 
 describe("experiment schemas legacy", () => {
